@@ -36,8 +36,7 @@ It pulls the data from the files while starting the CRM and saves it as we perfo
 ## DEMO VIDEO:
 
 
-
-https://user-images.githubusercontent.com/51514697/169709722-3813c954-f285-46b4-ab32-b6fe67efb8c7.mp4
+https://user-images.githubusercontent.com/51514697/169709920-d34c1a98-344f-41f6-bdd1-75690171973a.mp4
 
 
 
