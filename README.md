@@ -1,5 +1,5 @@
 # CRM-in-c++
-Extension of an exesting CRM - for (20XT25) OOPS LAB @PSG COLLEGE OF TECHNOLOGY
+Written on top of an exesting CRM - for (20XT25) OOPS LAB @PSG COLLEGE OF TECHNOLOGY
 
 
 A CRM project written in C++ where companies can
